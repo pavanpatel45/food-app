@@ -25,3 +25,6 @@ yarn-error.log*
 =======
 node_modules
 >>>>>>> 95f64fea209cfb970bbc624f542f60561d1c1e20
+src/Components/Test.js
+src/App.js
+package-lock.json

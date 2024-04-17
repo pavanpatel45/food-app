@@ -6,6 +6,9 @@ import SearchBar from './Components/SearchBar';
 import './index.css'
 import Home from './Pages/Home';
 import Footer from './Components/Footer';
+import AboutUs from './Components/AboutUs';
+import Test from './Components/Test';
+import Map from './Components/Map';
 function App() {
  
 
@@ -17,7 +20,7 @@ function App() {
       //    </Routes>
       // </Router>
       <>
-      <Footer/>
+      <AboutUs/>
       </>
      
   );
